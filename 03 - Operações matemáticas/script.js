@@ -1,11 +1,11 @@
 let numberOne = Number(prompt('Digite o primeiro número:'))
 let numberTwo = Number(prompt('Digite o segundo número número:'))
 
-let soma = numberOne + numberTwo
-let subtracao = numberOne - numberTwo
-let multiplicacao = numberOne * numberTwo
-let divisao = numberOne / numberTwo
-let resto = numberOne % numberTwo
+const soma = numberOne + numberTwo
+const subtracao = numberOne - numberTwo
+const multiplicacao = numberOne * numberTwo
+const divisao = numberOne / numberTwo
+const resto = numberOne % numberTwo
 
 alert(
   'A soma dos dois números é igual a: ' + soma +
