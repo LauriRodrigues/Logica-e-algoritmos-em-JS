@@ -30,3 +30,10 @@
     - Caso o usuário digite 2, ele poderá ver os itens cadastrados
     - Se não houver nenhum item cadastrado, mostrar a mensagem: "Não existem itens cadastrados"
     - Caso o usuário digite 3, a aplicação deverá ser encerrada.
+
+8)  Crie uma lista de pacientes. Cada paciente dentro da lista, deverá conter:
+      - nome
+      - idade
+      - peso
+      - altura
+   Escreva uma lista contendo o nome dos pacientes
