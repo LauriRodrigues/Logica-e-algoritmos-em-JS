@@ -36,4 +36,5 @@
       - idade
       - peso
       - altura
-   Escreva uma lista contendo o nome dos pacientes
+      
+    Escreva uma lista contendo o nome dos pacientes.
