@@ -40,5 +40,25 @@
 Escreva uma lista contendo o nome dos pacientes.
 
 09) Dada uma lista de pacientes, descubra o IMC de cada paciente e imprima: "Paciente X possui o IMC de: Y"
-   - Onde X é o nome do paciente e Y é o IMC desse paciente.
-   - Crie uma função para fazer o cálculo de IMC.
+     - Onde X é o nome do paciente e Y é o IMC desse paciente.
+     - Crie uma função para fazer o cálculo de IMC.
+
+Desafio 01) Nesse desafio, você irá solicitar ao usuário que ele insira dois números e, a partir daí, calcular:
+    - A soma dos dois números;
+    - A subtração dos dois números;
+    - A multiplicação dos dois números;
+    - A divisão dos dois números;
+    - O resto da divisão dos dois números;
+
+Fácil até aqui, né? Bora se desafiar? 👀 🧑‍🚀
+    - Verifique se a soma dos dois números é par;
+    - Verifique se os dois números inseridos são iguais.
+
+Desafio 02) Nesse desafio você irá criar uma lista de estudantes e, cada estudante dentro dessa lista, deverá conter os seguintes dados:
+    - nome;
+    - nota da primeira prova;
+    - nota da segunda prova.
+
+Depois de criada a lista:
+    - Crie uma função que irá calcular a média das notas de cada aluno;
+    - Supondo que a média, para esse concurso é 7, verifique se cada aluno obteve sucesso ou não em entrar no concurso e mostre uma mensagem na tela.
