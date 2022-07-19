@@ -1,3 +1,12 @@
+<div align="center">
+  <img alt="Logo Explorer" title="Explorer" src="./assets/Logo1.png">
+</div>
+
+<h4 align="center"> 
+	🚀 Exercícios - Lógica e Algoritmos em JavaScript | Stage 04 - Explorer
+</h4>
+
+
 1️⃣ Pergunte o nome do usuário e escreva a mensagem: 
 "Olá, [nome do usuário]"
 
